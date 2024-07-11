@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463525434046",
+    "project_id": "fysics-5eb38",
+    "storage_bucket": "fysics-5eb38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463525434046:android:e951223147b00b3ba784ef",
+        "android_client_info": {
+          "package_name": "com.example.foot_physics_aap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamDnBJre4kbc1wG1DvRZipFyAQQHQLik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
